@@ -29,7 +29,7 @@ Then open http://localhost:5173. Opening `index.html` directly by double-clickin
 |---|---|
 | WhatsApp number | every `wa.me/919958929886` link in `index.html` (find & replace) |
 | Order form | Google Form embedded in the **Order form** section of `index.html` — edit questions in Google Forms; its height is set in `js/main.js` (`PAGE1_HEIGHTS`) to fit the form's first page; longer pages scroll inside the form. Re-measure if you change page 1's questions |
-| Email | `hello@vipulsingh.com` in `index.html` — the email button near the bottom (its `mailto:` link and its text) |
+| Email | `havelockdivemaster@gmail.com` in `index.html` — the email button near the bottom (its `mailto:` link and its text) |
 | Prices | Pricing section in `index.html`, the pre-filled WhatsApp messages in the pricing links, and the package options in the Google Form |
 | Colors / fonts | `:root` variables at the top of section 2 in `css/styles.css` (`--color-accent`, `--color-bg`, …) |
 | FAQ | `<details>` blocks in the FAQ section of `index.html` |
